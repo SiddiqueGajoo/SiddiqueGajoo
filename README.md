@@ -15,16 +15,16 @@ I blend design and code to build **clean, efficient, and engaging user experienc
 - 🌱 Exploring **Firebase**, **Node.js**, and **Backend APIs**
 - 💬 Ask me about **Flutter**, **UI/UX**, **RESTful APIs**
 - 📫 Reach me at **siddiquegaju@gmail.com**
-- ⚡ Fun fact: *Good code is like gold — clean, valuable, and timeless.*
+- ⚡ Fun fact: *My apps never crash… they just take creative naps 😄.*
 
 ---
 
 ### 🧩 Featured Projects
 | Project | Description | Link |
 |----------|--------------|------|
-| 🛒 **Ecommerce App** | Full-featured Flutter eCommerce app with Firebase backend | [View on GitHub](https://github.com/SiddiqueGajoo/Ecommerce-App) |
+| 🛒 **Ecommerce App** | Full-featured Flutter eCommerce app with Firebase backend | [View on GitHub](https://github.com/SiddiqueGajoo/e_commerce_App) |
 | 🧠 **Quiz App** | Interactive quiz app with score tracking | [View on GitHub](https://github.com/SiddiqueGajoo/Quiz-App) |
-| 💰 **Expense Tracker** | Budget tracking app with analytics dashboard | [View on GitHub](https://github.com/SiddiqueGajoo/Expense-Tracker) |
+| 💰 **Expense Tracker** | Budget tracking app with analytics dashboard | [View on GitHub](https://github.com/SiddiqueGajoo/Expense_Tracker) |
 
 ---
 
